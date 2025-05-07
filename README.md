@@ -10,6 +10,7 @@ PROBLEM STATEMENT:-
 Infertility is a growing health concern among the women globally, it’s often influenced by lifestyle, hormonal imbalance, and underlying medical conditions like PCOS.
 Early detection and intervention can improve treatment outcomes.
 This project aims to build a predictive model to identify the likelihood of infertility-related risks using patient lifestyle and clinical features.
+In this project, we approach infertility prediction through the classification of PCOS presence, which is a major clinical indicator of infertility risk. Using patient health and lifestyle data, we train machine learning classifiers to identify patterns associated with infertility-prone individual
 
 OBJECTIVE: -
 To analyze and predictive infertility risk using supervised machine learning algorithms based on patient demography lifestyle, and clinical data.

@@ -60,16 +60,6 @@ The dataset consists of medical and lifestyle records of women, including hormon
   - A+ = 11, A- = 12, B+ = 13, B- = 14  
   - O+ = 15, O- = 16, AB+ = 17, AB- = 18
 
----
-
-## 📎 Files Included
-- https://colab.research.google.com/drive/10UhjX_3s_t3lbycWIffx2iYJMEJO7Uat?usp=sharing
-- Dataset link:  *(Add this as a hyperlink in your repo)*
 
 ---
-
-
-## 🤝 Contributions
-Project by: **Tahira Begum S**
-
 

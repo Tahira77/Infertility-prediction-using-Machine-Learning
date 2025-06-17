@@ -63,8 +63,8 @@ The dataset consists of medical and lifestyle records of women, including hormon
 ---
 
 ## 📎 Files Included
-- `Infertility_prediction.ipynb` — Main Jupyter Notebook for EDA, preprocessing, and model building.
-- Dataset link: [Kaggle PCOS Dataset](https://www.kaggle.com/datasets/jr2ngb/pcosdata) *(Add this as a hyperlink in your repo)*
+- https://colab.research.google.com/drive/10UhjX_3s_t3lbycWIffx2iYJMEJO7Uat?usp=sharing
+- Dataset link:  *(Add this as a hyperlink in your repo)*
 
 ---
 

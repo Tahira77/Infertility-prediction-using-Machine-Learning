@@ -1,7 +1,7 @@
 # Infertility Prediction using Machine Learning
 
 ## 📌 Project Title:
-**Predicting Fertility Based on Lifestyle & Medical Factors using Machine Learning**
+**Infertility Prediction Using Lifestyle & PCOS Medical Data From Kerala Hospitals Using Machine Learning**
 
 ## 🩺 Domain:
 Healthcare Data
